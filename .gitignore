@@ -38,8 +38,6 @@ build/
 .DS_Store
 Thumbs.db
 
-# Uploads (can be ignored if you don't want to track uploaded files)
-uploads/
 
 # IDE / Editor
 .vscode/
